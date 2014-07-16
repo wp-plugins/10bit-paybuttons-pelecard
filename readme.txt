@@ -34,8 +34,8 @@ button_text - The text that will be displayed on the pay button
 == Screenshots ==
 
 1. Pelecard Pay Buttons
-2. Settings part 1
-3. Settings part 2
+2. Settings-1
+3. Settings-2
 
 == Changelog ==
 
